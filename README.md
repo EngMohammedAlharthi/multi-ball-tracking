@@ -1,2 +1,2 @@
-# multi-ball-tracking
-Real-time multi-object tracking using OpenCV and color segmentation (red &amp; blue balls)
+This project demonstrates real-time object tracking for multiple moving balls (red and blue) using OpenCV in Python.
+The system detects and tracks objects based on color, labeling each with its color name.
